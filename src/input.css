@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme
+{
+    --color-txt: #7D4028;
+    --color-btn: #8B5A2B;
+}
